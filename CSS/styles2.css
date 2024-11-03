@@ -1,0 +1,10 @@
+#analisis-estructurado h1,
+#analisis-oo h1 {
+    color: #007bff; /* Color azul para los títulos en las otras pestañas */
+}
+
+#analisis-estructurado p,
+#analisis-oo p {
+    color: #6c757d; /* Color gris suave para el texto descriptivo */
+    font-size: 1.1rem;
+}

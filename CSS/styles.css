@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo */
+}
+
+h1 {
+    color: #343a40; /* Color del título */
+    margin-top: 50px;
+}
+
+p {
+    color: #6c757d; /* Color gris para el texto */
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
